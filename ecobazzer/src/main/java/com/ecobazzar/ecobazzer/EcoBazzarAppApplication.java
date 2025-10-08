@@ -9,5 +9,6 @@ public class EcoBazzarAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EcoBazzarAppApplication.class, args);
 		System.out.println("hey whats up");
-	}
+		System.out.println("Running ecobazzar project");
+}
 }
